@@ -1,5 +1,4 @@
 # pandas
-Data Structures:
 
 Series: A one-dimensional labeled array that can hold any data type (integers, floats, strings, etc.). It's similar to a column in a table.
 DataFrame: A two-dimensional labeled data structure with columns of potentially different types. It can be thought of as a table or a spreadsheet, where each column is a Series.
